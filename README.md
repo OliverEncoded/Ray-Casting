@@ -1,5 +1,6 @@
 # Ray-Casting
-THE EXE MIGHT NOT WORK XD,  
+If you want to try it out you only need to download the .zip file, extract it and it should run.
+(If not I'm sorry)
 
 hold mouse down to show ray paths,  
 left/right arrow keys increase ray length,  
